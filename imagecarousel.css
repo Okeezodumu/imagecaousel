@@ -1,0 +1,26 @@
+body{
+background-color: white;
+display: flex;
+}
+#container{
+    
+    padding: 50px;
+    border: 1px solid brown;
+    position: relative;
+    align-items: center;
+    left: 450px;
+    background-color: rgba(165, 42, 42, 0.151);
+    box-shadow: 10px 10px 10px;
+    border-radius: 20px;
+}
+.writeup{
+    padding: 2px;
+    border: 1px solid grey;
+    background-color: blanchedalmond;
+   
+}
+ul{
+    list-style-type: none;
+    position: relative;
+    right: 40px;
+}
